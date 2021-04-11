@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+  margin-top: 2px;
+  overflow: hidden;
+}
+.wrapper {
+  background-color: #eb9478;
+  margin-top: 2%;
+  margin-bottom: 40px;
+  width: 50%;
+  padding-left: 9%;
+  padding-right: 9%;
+  padding-bottom: 1.5%;
+  padding-top: 2%;
+}
+
+h1 {
+  align-self: center;
+  color: #493b76;
+}
+
+form {
+  width: 100%;
+  margin-top: 20px;
+}
+
+h4 {
+  margin-bottom: 10px;
+  color: #493b76;
+  font-size: 21px;
+}
+
+.name {
+  width: 60%;
+  margin-bottom: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.input-box i {
+  position: absolute;
+}
+
+.input-box {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.look {
+  padding-top: 20px;
+  padding-left: 5px;
+  font-size: 50px;
+  color: #493b76;
+}
+
+.dob {
+  padding: 10px;
+}
+
+.card-img {
+  padding-top: 20px;
+  padding-left: 5px;
+  font-size: 50px;
+  color: #493b76;
+}
+
+.cvc {
+  padding: 5px;
+  text-align: center;
+}
+
+.cvc-img {
+  padding-top: 10px;
+  padding-left: 5px;
+  font-size: 50px;
+  color: #493b76;
+}
+
+.input-boxes {
+  margin-top: 20px;
+}
+
+.input-gender {
+  margin-top: 20px;
+}
+
+.btn {
+  padding: 16px 40px;
+  background-color: #493b76;
+  color: white;
+}
+
+.radio {
+  margin-bottom: 10px;
+}
